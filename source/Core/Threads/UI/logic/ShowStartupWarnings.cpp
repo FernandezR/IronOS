@@ -1,5 +1,6 @@
 #include "HUB238.hpp"
 #include "OperatingModes.h"
+#include "ui_drawing.hpp"
 OperatingMode showWarnings(const ButtonState buttons, guiContext *cxt) {
   // Display alert if settings were reset
 
